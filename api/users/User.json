@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Nady",
+        "last_name": "Coggles",
+        "email": "ncoggles0@omniture.com",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Morse",
+        "last_name": "Faustin",
+        "email": "mfaustin1@meetup.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Care",
+        "last_name": "Filipson",
+        "email": "cfilipson2@ustream.tv",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Marmaduke",
+        "last_name": "Devaney",
+        "email": "mdevaney3@cisco.com",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Sharon",
+        "last_name": "Mc Gorley",
+        "email": "smcgorley4@pen.io",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Orland",
+        "last_name": "Jouhan",
+        "email": "ojouhan5@oracle.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Krysta",
+        "last_name": "Cordsen",
+        "email": "kcordsen6@alexa.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Kristopher",
+        "last_name": "Varga",
+        "email": "kvarga7@usgs.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Xaviera",
+        "last_name": "Brady",
+        "email": "xbrady8@prweb.com",
+        "gender": "Polygender"
+    },
+    {
+        "id": 10,
+        "first_name": "Dillie",
+        "last_name": "Artinstall",
+        "email": "dartinstall9@uol.com.br",
+        "gender": "Male"
+    }
+]
